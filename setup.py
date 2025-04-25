@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="friendly-dummy",
+    name="friendlydummy",
     version="0.0.1",
     author="Dummy Author",
     description="A dummy package that prints hello world",
